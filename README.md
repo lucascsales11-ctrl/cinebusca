@@ -6,15 +6,15 @@ Aplicação web para buscar filmes, ver detalhes, filtrar por gênero e guardar 
 
 | Nome completo | Matrícula |
 | --- | --- |
-| João Pedro Oliveira | [preencher] |
-| Matheus Vitor Teixeira | [preencher] |
-| Lucas Sales | [preencher] |
+| João Pedro Oliveira | [202510476] |
+| Matheus Vitor Teixeira | [202511815] |
+| Lucas Sales | [202410332] |
 
 ## Links
 
 - **Aplicação (GitHub Pages):** [preencher]
 - **Repositório:** [preencher]
-- **Vídeo de demonstração:** [preencher ou incluído no ZIP como video.mp4]
+- **Vídeo de demonstração:** [Vídeo disponibilizado ao professor]
 
 ## APIs e endpoints usados
 
