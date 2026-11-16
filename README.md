@@ -12,8 +12,8 @@ Aplicação web para buscar filmes, ver detalhes, filtrar por gênero e guardar 
 
 ## Links
 
-- **Aplicação (GitHub Pages):** [preencher]
-- **Repositório:** [preencher]
+- **Aplicação (GitHub Pages):** [https://lucascsales11-ctrl.github.io/cinebusca/]
+- **Repositório:** [https://github.com/lucascsales11-ctrl/cinebusca]
 - **Vídeo de demonstração:** [Vídeo disponibilizado ao professor]
 
 ## APIs e endpoints usados
